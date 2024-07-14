@@ -1,7 +1,7 @@
 # A-HIDMS-PSO: Adaptive-HIDMS-PSO
 <h3>HIDMS-PSO Algorithm with an Adaptive Topological Structure.</h3>
 
-<b>Paper Link:</b> https://ieeexplore.ieee.org/document/9308313
+<b>Paper Link:</b> https://ieeexplore.ieee.org/document/9660115
 
 <b>Cite as:</b><br>
 F. T. Varna and P. Husbands, "HIDMS-PSO Algorithm with an Adaptive Topological Structure," 2021 IEEE Symposium Series on Computational Intelligence (SSCI), Orlando, FL, USA, 2021, pp. 1-8, doi: 10.1109/SSCI50451.2021.9660115.
